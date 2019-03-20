@@ -8,7 +8,7 @@ public class helloWorld{
 			System.out.println("Hello Team 2!");
 			System.out.println("Hello De.E.!");
 			System.out.println("Hello Ti.F.!");
-			System.out.println("Hello Ti.L.!");
+			System.out.println("Hallo Timo Lahres!");
 			System.out.println("Hello Fa.W.!");
 			System.out.println("Hello Team 3!");
 			System.out.println("Hello Al.N.M.!");
