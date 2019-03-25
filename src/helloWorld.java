@@ -9,7 +9,6 @@ public class helloWorld{
 			System.out.println("Hello De.E.!");
 			System.out.println("Hello Ti.F.!");
 			System.out.println("Hello Ti.L.!");
-			System.out.println("Hello Fa.W.!");
 			System.out.println("Hello Anderst.W.!");
 			System.out.println("Etwas geaendert in Eclipse");
 			System.out.println("Hello Team 3!");
