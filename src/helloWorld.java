@@ -16,12 +16,9 @@
 			System.out.println("Hello Al.N.M.!");
 			System.out.println("Hello Sa.S.!");
 			System.out.println("Hello Ph.S.! Hello");
-<<<<<<< HEAD
 			System.out.println("Hello Ni.H.!");	
 			System.out.println("Test 123456789 hier ist Team 2");
-=======
 			System.out.println("Hello Ni.H.!");		
 			System.out.println("Hallo Test 123 hier ist Team 2");
->>>>>>> Team_2
 	}
 }
