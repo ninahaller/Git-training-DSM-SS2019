@@ -12,7 +12,6 @@ public class helloWorld{
 			System.out.println("Hello Anderst.W.!");
 			System.out.println("Etwas geaendert in Eclipse");
 			System.out.println("Hallo mein Name ist Timo Lahres!");
-			System.out.println("Hello Fa.W.!");
 			System.out.println("Hello Team 3!");
 			System.out.println("Hello Al.N.M.!");
 			System.out.println("Hello Sa.S.!");
