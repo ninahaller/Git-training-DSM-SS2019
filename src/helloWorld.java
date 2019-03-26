@@ -15,7 +15,7 @@
 			System.out.println("Hello Team 3!");
 			System.out.println("Hello Al.N.M.!");
 			System.out.println("Hello Sa.S.!");
-			System.out.println("Hello Ph.S.! Hello again");
+			System.out.println("Hello Ph.S.! Hello again Eclipse läuft");
 			System.out.println("Hello Ni.H.!");		
 	}
 }
