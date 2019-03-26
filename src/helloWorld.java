@@ -6,8 +6,8 @@
 			System.out.println("Hello Jo.F.!");
 			System.out.println("Hello Se.S.!");
 			System.out.println("Hello Team 2!");
-			System.out.println("Hello De.E. verändert und name veraendert!");
-			System.out.println("Hello Ti.F.!");
+			System.out.println("Hello De.E. verï¿½ndert und name veraendert!");
+			System.out.println("Hello Tizia Fiedler!");
 			System.out.println("Hello Ti.L.!");
 			System.out.println("Hello Anderst.W.!");
 			System.out.println("Etwas geaendert in Eclipse");
