@@ -15,13 +15,11 @@
 			System.out.println("Hello Team 3!");
 			System.out.println("Hello Al.N.M.!");
 			System.out.println("Hello Sa.S.!");
-<<<<<<< HEAD
 			System.out.println("Hello Ph.S.! Hello");
 			System.out.println("Hello Ni.H.!");	
 			System.out.println("Kaputt");
-=======
 			System.out.println("Hello Ph.S.! Hello again Eclipse läuft");
 			System.out.println("Hello Ni.H.!");		
->>>>>>> fehlerfrei
+
 	}
 }
