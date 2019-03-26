@@ -16,6 +16,7 @@
 			System.out.println("Hello Al.N.M.!");
 			System.out.println("Hello Sa.S.!");
 			System.out.println("Hello Ph.S.! Hello");
-			System.out.println("Hello Ni.H.!");		
+			System.out.println("Hello Ni.H.!");	
+			System.out.println("Kaputt");
 	}
 }
