@@ -6,7 +6,7 @@
 			System.out.println("Hello Jo.F.!");
 			System.out.println("Hello Se.verandert viel S.!");
 			System.out.println("Hello Team 2!");
-			System.out.println("Hello De.E. ver�ndert und name veraendert!");
+			System.out.println("Hello De.E. ver�ndert und + name veraendert!");
 			System.out.println("Hello Ti.F.!");
 			System.out.println("Hello Ti.L.!");
 			System.out.println("Hello Anderst.W.!");
