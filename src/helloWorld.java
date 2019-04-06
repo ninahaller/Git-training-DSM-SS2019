@@ -13,7 +13,8 @@
 			System.out.println("Etwas geaendert in Eclipse");
 			System.out.println("Hallo mein Name ist Timo Lahres!");
 			System.out.println("Hello Team 3!");
-			System.out.println("Hello Al.N.M.! Änderung, nochmalige Änderung");
+			System.out.println("Hello Al.N.M.! Änderung, nochmalige Änderung,"
+					+ "Eclipse-Änderung");
 			System.out.println("Hello Sa.S.!");
 			System.out.println("Hello Ph.S.! Hello");
 			System.out.println("Hello Ni.H.!");		
