@@ -3,7 +3,7 @@
 			System.out.println("Hello Team 1!");
 			System.out.println("Hello Fi.S.!");
 			System.out.println("Hello Sü.A.!");
-			System.out.println("Hello Jo.F.!");
+			System.out.println("Hello Jo.F.! edit1");
 			System.out.println("Hello Se.verandert viel S.!");
 			System.out.println("Hello Team 2!");
 			System.out.println("Hello De.E. ver�ndert und name veraendert!");
